@@ -21,6 +21,25 @@ I enjoy building scalable web applications, exploring AI technologies, and solvi
   - Cloud Computing
 - 🎯 Looking for Software Engineering Internship opportunities
 
+ ## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tejash47&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejash47&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tejash47&theme=tokyonight&hide_border=true"/>
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tejash47&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
 ---
 
 # 🛠️ Tech Stack
