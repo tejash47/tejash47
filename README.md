@@ -1,16 +1,106 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Kamada Tejesh</h1>
 
-<!--
-**tejash47/tejash47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Full Stack Developer • AI Enthusiast • Computer Science Student
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+I enjoy building scalable web applications, exploring AI technologies, and solving programming problems.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 🚀 About Me
+
+- 🎓 B.Tech Computer Science & Engineering Student
+- 💻 Passionate about Full Stack Development
+- 🤖 Interested in Artificial Intelligence & Machine Learning
+- 🌱 Currently learning
+  - Data Structures & Algorithms
+  - System Design
+  - Cloud Computing
+- 🎯 Looking for Software Engineering Internship opportunities
+
+---
+
+# 🛠️ Tech Stack
+
+### Languages
+
+Java • Python • C • JavaScript • TypeScript
+
+### Frontend
+
+React • HTML • CSS • Tailwind CSS • Vite
+
+### Backend
+
+Node.js • Express.js
+
+### Database
+
+MongoDB • Mongoose
+
+### Tools
+
+Git • GitHub • VS Code • Render • Vercel
+
+---
+
+# 🚀 Featured Projects
+
+## 📚 Digital Class Diary
+
+Modern classroom management system.
+
+**Tech Used**
+
+React • Express • MongoDB • TypeScript
+
+🌐 Live
+
+https://digital-class-diary.onrender.com
+
+---
+
+## 🎨 Kala AI
+
+Marketplace platform for artisans.
+
+---
+
+## 🌐 Portfolio Website
+
+https://kamada-tejash.vercel.app
+
+---
+
+# 💻 Coding Profiles
+
+💛 LeetCode
+
+https://leetcode.com/u/tejesh_47/
+
+🍛 CodeChef
+
+https://www.codechef.com/users/tejash_47
+
+---
+
+# 🌐 Connect With Me
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/kamada-sri-hari-siva-tejash
+
+🌐 Portfolio
+
+https://kamada-tejash.vercel.app
+
+📂 GitHub
+
+https://github.com/tejash47
+
+---
+
+⭐ Thanks for visiting my profile!
